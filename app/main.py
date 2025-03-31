@@ -1,6 +1,6 @@
 # flake8: noqa
 import json
-import datetime
+import datetime # like in the checklist
 from app.car import Car
 from app.shop import Shop
 from decimal import Decimal
